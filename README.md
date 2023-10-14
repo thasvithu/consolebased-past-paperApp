@@ -34,13 +34,13 @@ To run the Console-Based Past Paper App locally, you will need Java installed on
   java PastPaperApp
 
 
-Usage
+##Usage
 1. Log In or Sign Up: Choose the respective option to access the app.
 2. Download Past Papers: Select your desired year, semester, and subject to download past papers.
 3. Manage Profile: Access your profile to change your password, name, or email address.
 4. Exit: Choose the option to log out and exit the application.
 
-Contributing
+##Contributing
 Contributions to the Console-Based Past Paper App are welcome. If you'd like to contribute to this project, please follow these guidelines:
 
 1. Fork the project.
