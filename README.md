@@ -29,9 +29,11 @@ To run the Console-Based Past Paper App locally, you will need Java installed on
 
 
 1. Navigate to the project directory:
+   ```sh
    cd consolebased-past-paperApp
-2. Run the app:
-  java PastPaperApp
+3. Run the app:
+   ```sh
+   java PastPaperApp
 
 
 ## Usage
